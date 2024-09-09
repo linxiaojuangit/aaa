@@ -1,6 +1,8 @@
 #!usr/bin/python
 # coding = utf-8
 
+### 读取观测预报数据，时间序列一致，网格一致，单位一致	fde567b	linxiaojuangit <959393813@qq.com>	2024年8月31日 19:45
+
 from pickletools import read_float8
 # from tkinter.messagebox import RETRY
 # import re
