@@ -1,0 +1,8 @@
+h5py==3.11.0
+matplotlib==3.9.2
+netCDF4==1.7.1.post2
+numpy==1.24.4
+pandas==2.2.2
+python_dateutil==2.9.0.post0
+scipy==1.14.1
+torch==2.4.0
